@@ -1,0 +1,606 @@
+canonical_identifier: bkk:krp/KR6f0003/v1
+canonical_location: https://kanripo.org/bkk/KR6f0003/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說如來不思議祕密大乘經
+  identifiers:
+    alt_id:
+    - T11n0312
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T11/T11n0312.xml
+    old_id: T11n0312
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 南藏
+  label: 南藏
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0003_000.yaml, hash: 'sha256:aa5d78513461422bc798600b159366d6760b548fbddd63dc01c3e64a03fbcda5'}
+  - {seq: 1, filename: KR6f0003_001.yaml, hash: 'sha256:89a2c09edb5baff29b240934ff6a10bbdef4622f8fd6614cc06dd8aee2073db8'}
+  - {seq: 2, filename: KR6f0003_002.yaml, hash: 'sha256:6f74538f4caa1d69ce226abf72fb106ee149a4a9a3d51ae9d1a90c81b64c1754'}
+  - {seq: 3, filename: KR6f0003_003.yaml, hash: 'sha256:86c26d68982a4c38860ebb37ad4a8b0569f4d5239470f782001589ee65f791d1'}
+  - {seq: 4, filename: KR6f0003_004.yaml, hash: 'sha256:a49e1d2540fccfc3ac15783aeacc40d8081de9675a7938253fb55a1d73b17610'}
+  - {seq: 5, filename: KR6f0003_005.yaml, hash: 'sha256:86403349f1189403716aaf6acdc731d73c5b470f85db779ddeb7524c43f6d3f5'}
+  - {seq: 6, filename: KR6f0003_006.yaml, hash: 'sha256:bb9e4d451b0c6f2dcd9b828b56d2976582c808a3ea0ead2101f413d7db2e2b79'}
+  - {seq: 7, filename: KR6f0003_007.yaml, hash: 'sha256:31eb8f9030e77a9302310d8a9477da40477b86409fa5fe567af82c325a32c450'}
+  - {seq: 8, filename: KR6f0003_008.yaml, hash: 'sha256:3786d75e802960e9592f1b070fd10a2be151baa858d7cea073e77a24f006af23'}
+  - {seq: 9, filename: KR6f0003_009.yaml, hash: 'sha256:2c0dd17b300eca22a0e427369df8c5a72b623bd334840950f9de5ea26f1b534d'}
+  - {seq: 10, filename: KR6f0003_010.yaml, hash: 'sha256:6ca3e8aea5c4e9a4340bad9ab26ea5ed58da0d335f60321e2bc9d88df05756aa'}
+  - {seq: 11, filename: KR6f0003_011.yaml, hash: 'sha256:ba4f57e246c0fbfad9f0bd4268dec61d2c6e56e9f97c80060b8ae8a7768f8dfe'}
+  - {seq: 12, filename: KR6f0003_012.yaml, hash: 'sha256:6626e54dad402f7a95583a8d57507b13f38c6a377b78511dd411429d601d8195'}
+  - {seq: 13, filename: KR6f0003_013.yaml, hash: 'sha256:43b6edc898157488fe0c84904fb19746d8e5df335037e5c904db61fc8376fb80'}
+  - {seq: 14, filename: KR6f0003_014.yaml, hash: 'sha256:d382aca8f76b45a7e67e95ca6bfde86eb1b9609595b508d423d9fc32ce7d8a41'}
+  - {seq: 15, filename: KR6f0003_015.yaml, hash: 'sha256:4a1f6013b7bdbe17a6b33e42ce6077168d320e6b315dad190bc265324b55035b'}
+  - {seq: 16, filename: KR6f0003_016.yaml, hash: 'sha256:cde81ce9710c46b02063532fb862e48ef600946ed9948ca7554c70661700eba1'}
+  - {seq: 17, filename: KR6f0003_017.yaml, hash: 'sha256:370ab46d0206642c403f6fa8ab6f312af9e4ee7c5d064431299ca5645b10488e'}
+  - {seq: 18, filename: KR6f0003_018.yaml, hash: 'sha256:7adc9a92ec31d9f4d10dea615b59f6490b5e0363c24d3cefd086da1ef3a4ba3d'}
+  - {seq: 19, filename: KR6f0003_019.yaml, hash: 'sha256:d7f59b5a8744b7b70e3f3fa12715a013f818768fc8d1a2594bf7a9c7e396611c'}
+  - {seq: 20, filename: KR6f0003_020.yaml, hash: 'sha256:4ad1ba4e208a7308fec9b568173837a3c2fd5446e12c06986ab4c63021277c5e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6f0003_001.markers.yaml, hash: 'sha256:e6c3de571592249decbd4c9984a8a028629e62ee32a0421a8b843d2a1f9cceee'}
+  - {seq: 2, role: markers, filename: assets/KR6f0003_002.markers.yaml, hash: 'sha256:9b40d9c8ad76e15a84cbe790e4f46d207da00107e5733afc46733f06a528aa01'}
+  - {seq: 3, role: markers, filename: assets/KR6f0003_003.markers.yaml, hash: 'sha256:fd3e92fb1fdaa0bd58c3056eae3bb86f4d4949bf26eb8dfe65a5d5723f975414'}
+  - {seq: 4, role: markers, filename: assets/KR6f0003_004.markers.yaml, hash: 'sha256:67b1ca876308f17800bedbb263af6c0bb0197b30c0d92f2e0bdb997519c6a82b'}
+  - {seq: 5, role: markers, filename: assets/KR6f0003_005.markers.yaml, hash: 'sha256:db8ea87cde92f57c944e3967b5247380403e8a619759d0231eaf4e1d564e2ac0'}
+  - {seq: 6, role: markers, filename: assets/KR6f0003_006.markers.yaml, hash: 'sha256:e55578d24d21648d056208eb3266446db56cbc2204449089c31fdbb87dc6c324'}
+  - {seq: 7, role: markers, filename: assets/KR6f0003_007.markers.yaml, hash: 'sha256:cb34d36adfd5a228a69847a0d2633a4fde36a1c62c19f944a7613186debd2b65'}
+  - {seq: 8, role: markers, filename: assets/KR6f0003_008.markers.yaml, hash: 'sha256:f76c5a0fae05d01f1eea4584bfb398a0f3a6f363c489ab4f55cd80686c29fa9a'}
+  - {seq: 9, role: markers, filename: assets/KR6f0003_009.markers.yaml, hash: 'sha256:6c853208c0139bbda9c5d91a7e3fbfd05f23f1b3f4850feb91ae09458875dea4'}
+  - {seq: 10, role: markers, filename: assets/KR6f0003_010.markers.yaml, hash: 'sha256:024432499876430ffb53eb5a666f539894625e2598ae0b2953c58e13b4f32629'}
+  - {seq: 11, role: markers, filename: assets/KR6f0003_011.markers.yaml, hash: 'sha256:9617467ecf9809120bef833867e53f4a5895dd13c5402fa25827b16bb15ef034'}
+  - {seq: 12, role: markers, filename: assets/KR6f0003_012.markers.yaml, hash: 'sha256:07e9701d7891ceb8cd19fd2f3f9c312af9fdd48ffaa35bfc66c188846274fa6f'}
+  - {seq: 13, role: markers, filename: assets/KR6f0003_013.markers.yaml, hash: 'sha256:de35a7a146df52a9842bdd0d05cebdf20e6479558f6019035a5f1c1a8c0b09d2'}
+  - {seq: 14, role: markers, filename: assets/KR6f0003_014.markers.yaml, hash: 'sha256:0b78d7a298290bb041a4f20e7f7e4783102cc85d8d7be7b565bcfbd5c33a2ceb'}
+  - {seq: 15, role: markers, filename: assets/KR6f0003_015.markers.yaml, hash: 'sha256:d27336b3648fd3e6d8189fecdf74c10ee2977e87b14b001319fa5c0b33fe9df8'}
+  - {seq: 16, role: markers, filename: assets/KR6f0003_016.markers.yaml, hash: 'sha256:e6085876aa387a19145ae68575f9716d7844b893600ae2dbdcb441b58fce2092'}
+  - {seq: 17, role: markers, filename: assets/KR6f0003_017.markers.yaml, hash: 'sha256:76a54212291fec586edde461cba9307d294c15e89325298ba57f837614e56bc6'}
+  - {seq: 18, role: markers, filename: assets/KR6f0003_018.markers.yaml, hash: 'sha256:cf4074980e56b96ef7b35daa9cdd4bf50cacc671ff158ee5ef3f3b11495f8023'}
+  - {seq: 19, role: markers, filename: assets/KR6f0003_019.markers.yaml, hash: 'sha256:1bda199b79f564e8e0595182b88580859e4df176e0b2070ca7640e689b9c1920'}
+  - {seq: 20, role: markers, filename: assets/KR6f0003_020.markers.yaml, hash: 'sha256:304146e0082442470b2af4eb2d0e1fb9011fd2662f97ef6dd55676d8739d6e83'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0003_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3403
+  label: '佛說如來不思議祕密大乘經卷
+
+    第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0003_T_001-mulu-1
+    span:
+    - body
+    - 29
+    - 29
+  label: 1 菩薩身密品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0003_T_001-mulu-2
+    span:
+    - body
+    - 29
+    - 29
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0003_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 3395
+  label: '佛說如來不思議祕密大乘經卷
+
+    第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0003_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 3121
+  label: '佛說如來不思議祕密大乘經卷
+
+    第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0003_T_003-mulu-1
+    span:
+    - body
+    - 29
+    - 29
+  label: 2 菩薩語密品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0003_T_003-mulu-2
+    span:
+    - body
+    - 2178
+    - 2178
+  label: 3 菩薩心密品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6f0003_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 2927
+  label: '佛說如來不思議祕密大乘經卷
+
+    第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6f0003_T_004-mulu-1
+    span:
+    - body
+    - 806
+    - 806
+  label: 4 震吼音聲菩薩來會品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6f0003_T_004-mulu-2
+    span:
+    - body
+    - 1167
+    - 1167
+  label: 5 持國輪王先行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6f0003_T_004-mulu-3
+    span:
+    - body
+    - 1167
+    - 1167
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6f0003_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 2873
+  label: '佛說如來不思議祕密大乘經卷
+
+    第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6f0003_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 3526
+  label: '佛說如來不思議祕密大乘經卷
+
+    第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6f0003_T_006-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 6 菩提道品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6f0003_T_006-mulu-2
+    span:
+    - body
+    - 658
+    - 658
+  label: 7 如來身密不思議品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6f0003_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 3617
+  label: '佛說如來不思議祕密大乘經卷
+
+    第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6f0003_T_007-mulu-1
+    span:
+    - body
+    - 954
+    - 954
+  label: 8 如來語密不思議品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6f0003_T_007-mulu-2
+    span:
+    - body
+    - 954
+    - 954
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6f0003_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 3445
+  label: '佛說如來不思議祕密大乘經卷
+
+    第八'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6f0003_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 2963
+  label: '佛說如來不思議祕密大乘經卷
+
+    第九'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6f0003_T_009-mulu-1
+    span:
+    - body
+    - 452
+    - 452
+  label: 9 如來心密不思議品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6f0003_T_009-mulu-2
+    span:
+    - body
+    - 1391
+    - 1391
+  label: 10 稱讚金剛手菩薩大祕密主功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6f0003_T_009-mulu-3
+    span:
+    - body
+    - 1915
+    - 1915
+  label: 11 菩薩苦行超勝以受食緣成熟眾生品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6f0003_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 3231
+  label: '佛說如來不思議祕密大乘經卷
+
+    第十'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6f0003_T_010-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 12 菩薩詣菩提場品
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6f0003_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 3104
+  label: '佛說如來不思議祕密大乘經卷
+
+    第十一'
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6f0003_T_011-mulu-1
+    span:
+    - body
+    - 29
+    - 29
+  label: 13 降魔品
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6f0003_T_011-mulu-2
+    span:
+    - body
+    - 1500
+    - 1500
+  label: 14 轉法輪品
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6f0003_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 2999
+  label: '佛說如來不思議祕密大乘經卷
+
+    第十二'
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6f0003_T_012-mulu-1
+    span:
+    - body
+    - 1098
+    - 1098
+  label: 15 所緣品
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6f0003_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 3115
+  label: '佛說如來不思議祕密大乘經卷
+
+    第十三'
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6f0003_T_013-mulu-1
+    span:
+    - body
+    - 1793
+    - 1793
+  label: 16 金剛手菩薩大祕密主授記品
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6f0003_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 2492
+  label: '佛說如來不思議祕密大乘經卷
+
+    第十四'
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6f0003_T_014-mulu-1
+    span:
+    - body
+    - 427
+    - 427
+  label: 17 無二無說品
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6f0003_T_014-mulu-2
+    span:
+    - body
+    - 1576
+    - 1576
+  label: 18 入曠野大城受食品
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6f0003_T_014-mulu-3
+    span:
+    - body
+    - 1576
+    - 1576
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6f0003_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 2102
+  label: '佛說如來不思議祕密大乘經卷
+
+    第十五'
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6f0003_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 2640
+  label: '佛說如來不思議祕密大乘經卷
+
+    第十六'
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6f0003_T_016-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 19 護世品
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6f0003_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 3014
+  label: '佛說如來不思議祕密大乘經卷
+
+    第十七'
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6f0003_T_017-mulu-1
+    span:
+    - body
+    - 900
+    - 900
+  label: 20 去來品
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6f0003_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 3348
+  label: '佛說如來不思議祕密大乘經卷
+
+    第十八'
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6f0003_T_018-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 21 勇力菩薩先行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6f0003_T_018-mulu-2
+    span:
+    - body
+    - 1938
+    - 1938
+  label: 22 阿闍世王問答品
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6f0003_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 3430
+  label: '佛說如來不思議祕密大乘經卷
+
+    第十九'
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6f0003_T_019-mulu-1
+    span:
+    - body
+    - 1088
+    - 1088
+  label: 23 賢王天子品
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6f0003_T_019-mulu-2
+    span:
+    - body
+    - 2355
+    - 2355
+  label: 24 總持功德讚說譬喻無盡品
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6f0003_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 4296
+  label: '佛說如來不思議祕密大乘經卷
+
+    第二十'
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6f0003_T_020-mulu-1
+    span:
+    - body
+    - 1091
+    - 1091
+  label: 25 囑累正法品
+  type: mulu
+  level: 1
+hash: sha256:67c9ed568d4e326a679bf14d537b0b0008fab69721313a280f888443db18396e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
